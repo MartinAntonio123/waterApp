@@ -1,0 +1,6 @@
+framework module Pods_cuidaelagua {
+  umbrella header "Pods-cuidaelagua-umbrella.h"
+
+  export *
+  module * { export * }
+}

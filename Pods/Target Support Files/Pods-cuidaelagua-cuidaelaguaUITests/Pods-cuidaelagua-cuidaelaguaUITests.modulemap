@@ -1,0 +1,6 @@
+framework module Pods_cuidaelagua_cuidaelaguaUITests {
+  umbrella header "Pods-cuidaelagua-cuidaelaguaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
